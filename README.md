@@ -18,14 +18,14 @@ module.zip
 │
 ├── post-fs-data.sh        <--- 这个文件可以填写系统启动前想要执行的命令
 │
-├── service.sh              <--- 这个文件可以填写系统启动后想要执行的命令
+├── service.sh             <--- 这个文件可以填写系统启动后想要执行的命令
 │
 ├── system.prop            <--- 这个文件将被resetprop读取 挂载改变系统build.prop对应值
 │
 ├── ...  /* 模块文件的其余部分 */
 │
 ```
-**SKIPUNZIP=0意味着除了重要的文件 其他的文件如果您不需要的话 可以删除**
+**SKIPUNZIP=0意味着除了重要的文件,其他的文件如果您不需要的话可以删除.**
 
 **这是 [Magisk 官方新模块模板](https://github.com/HANA-CI-Build-Project/magisk-module-template) 您也可以去看看**
 
