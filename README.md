@@ -29,6 +29,6 @@ module.zip
 
 **这是 [Magisk 官方新模块模板](https://github.com/HANA-CI-Build-Project/magisk-module-template) 您也可以去看看**
 
-有关模块和存储库的更多信息 请查看 [Magisk 官方文档](https://topjohnwu.github.io/Magisk/guides.html)
+**有关模块和存储库的更多信息 请查看 [Magisk 官方文档](https://topjohnwu.github.io/Magisk/guides.html)**
 
 感谢 [Pinkdoge](https://github.com/Pinkdoge) 提供相关内容
