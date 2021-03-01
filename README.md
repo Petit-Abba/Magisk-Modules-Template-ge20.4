@@ -3,7 +3,7 @@
 
 `这是Magisk模块最基础的结构及说明`
 ```
-module.zip
+Magisk-Modules-Template(20.4+).zip
 │
 ├── META-INF
 │   └── com
